@@ -49,10 +49,6 @@
 	{
 		width: 1200px;
 	}
-	.header_content
-	{
-		width: calc(100% - 219px);
-	}
 	.main_nav_container
 	{
 		padding-right: 63px;
