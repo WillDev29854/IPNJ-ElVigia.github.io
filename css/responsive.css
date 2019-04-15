@@ -573,6 +573,11 @@
 		max-width: 100%;
 		flex: 0 0 100%;
 	}
+	
+	.about_section h2
+	{
+		text-align: center;
+	}
 
 }
 
